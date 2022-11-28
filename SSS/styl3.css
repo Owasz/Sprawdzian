@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-style: Verdana;
+}
+
+.bannery{
+    display: flex;
+
+}
+
+.banner1{
+    background-color: #29434E;
+    color: white;
+    font: center;
+    text-align: center;
+    width: 70vw;
+    height: 70px;
+}
+
+.banner2{
+    background-color: #29434E;
+    color: white;
+    width: 30vw;
+    height: 70px;
+}
+
+.listy{
+    background-color: #B0BEC5;
+    height: 320px;
+    display: flex;
+
+}
+
+.naglowek{
+    background-color: #546E7A;
+    width: 100vw;
+}
+
+.polecane{
+    display:flex;
+    width: 226px;
+    height: 280px;
+}
+
+.Footer{
+    background-color: #29434E;
+    color: white;
+}
+
+.form{
+    display: flex;
+}
+
+.wykonawca{
+    display: flex ;
+}
